@@ -14,8 +14,7 @@ public class Array_average_of_elements {
 
 	      //Read numbers from user and store it in an array
 	      System.out.println("Enter the numbers one by one : ");
-	    //  System.out.println("Press Enter button after each number : ");
-
+	    
 	      for(int i =0; i<num; i++){
 	         myArray[i] = sc.nextInt();
 	      }
